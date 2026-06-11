@@ -5,7 +5,7 @@ export function Home() {
     <div className="container mx-auto max-w-6xl p-4 sm:p-6 text-white text-center">
       <div className="py-16 sm:py-24">
         <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight text-blue-400">
-          Welcome to Max Stream
+          Welcome to Pro Stream
         </h1>
         <p className="mt-4 text-lg sm:text-xl max-w-3xl mx-auto text-gray-300">
           Discover and stream your favorite videos in high quality. Use the search bar above to find exactly what you're looking for.

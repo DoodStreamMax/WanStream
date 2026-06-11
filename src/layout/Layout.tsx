@@ -55,7 +55,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
       <header className="bg-gray-800 fixed top-0 left-0 w-full p-4 text-white flex items-center justify-between shadow-lg z-50">
         <Link to="/" className="flex items-center flex-shrink-0">
           <FaPlayCircle className="mr-3 text-blue-400" size={24} />
-          <h1 className="text-xl font-bold">Max Stream</h1>
+          <h1 className="text-xl font-bold">Pro Stream</h1>
         </Link>
         
         {showSearch && (
@@ -81,7 +81,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
       </main>
 
       <footer className="bg-gray-800 p-4 text-white text-center">
-        <p>© {new Date().getFullYear()} Max Stream. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Pro Stream. All rights reserved.</p>
       </footer>
     </div>
   );
