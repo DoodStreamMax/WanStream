@@ -93,7 +93,8 @@ export function PlayVideo() {
   const playerInstance = useRef<any>(null);
 
   const randomUrls = [
-    'https://crn77.com/4/10251220',
+    'https://dulyhagglermounting.com/2082665',
+    'https://sorrowfulpsychology.com/HE9TFh'
   ];
 
   const shuffleArray = (array: any[]) => {
