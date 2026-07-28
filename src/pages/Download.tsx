@@ -5,7 +5,7 @@ export function Download() {
 
   const randomUrls = [
     'https://dulyhagglermounting.com/2082665',
-    'https://sorrowfulpsychology.com/HE9TFh'
+    'https://www.effectivecpmnetwork.com/b3c368xkxz?key=430d12c7fd58ecba841fd905ca2dd3fd'
   ];
   
   const handleDownload = () => {
