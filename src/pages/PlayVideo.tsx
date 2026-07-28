@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { FaCopy, FaDownload, FaPlay, FaExclamationTriangle } from 'react-icons/fa';
 import { useLayout } from '../context/LayoutContext';
 
+
 declare global {
   interface Window {
     fluidPlayer?: (elementId: string, options?: any) => any;
