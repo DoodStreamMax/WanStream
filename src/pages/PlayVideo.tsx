@@ -95,7 +95,7 @@ export function PlayVideo() {
 
   const randomUrls = [
     'https://dulyhagglermounting.com/2082665',
-    'https://omg10.com/4/11556888'
+    'https://bmadss.com/get/?spot_id=2026313&cat=25&subid=1576043020'
   ];
 
   const shuffleArray = (array: any[]) => {
