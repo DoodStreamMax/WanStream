@@ -95,7 +95,7 @@ export function PlayVideo() {
 
   const randomUrls = [
     'https://dulyhagglermounting.com/2082665',
-    'https://sorrowfulpsychology.com/HE9TFh'
+    'https://omg10.com/4/11556888'
   ];
 
   const shuffleArray = (array: any[]) => {
